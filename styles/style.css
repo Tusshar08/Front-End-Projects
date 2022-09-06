@@ -1,4 +1,3 @@
-/** Simple Reset - START */
 html {
     box-sizing: border-box;
     font-size: 16px;
@@ -24,7 +23,6 @@ img {
     height: auto;
 }
 
-/** Global - START */
 body {
     font-family: 'Lato', sans-serif;
 }
@@ -97,7 +95,6 @@ body {
     transform: scale(0.95);
 }
 
-/** Quiz Card - START */
 .quiz-details {
 }
 
@@ -163,8 +160,6 @@ body {
     transform: scale(0.95);
 }
 
-
-/** Question Card - START */
 .questions-card {
 
 }
@@ -303,8 +298,6 @@ body {
     justify-content: flex-end;
 }
 
-
-/** Result Card - START */
 .result-card {
     display: flex;
     justify-content: center;
